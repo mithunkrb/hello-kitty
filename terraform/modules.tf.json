@@ -12,7 +12,7 @@
       "event_source_arn": null,
       "event_source_mapping": [],
       "filename": null,
-      "function_name": "hello-kitty-function",
+      "function_name": "hello-kitty-function-mkrb-10-08",
       "handler": "main.lambda_handler",
       "log_format": null,
       "log_group_name": "${module.appcd_86ec452a-770a-59bf-87dd-67ed883e25e5.name}",
