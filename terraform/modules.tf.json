@@ -7,7 +7,7 @@
       "create_function_url": false,
       "description": null,
       "environment_variables": {
-        "IMAGES_BUCKET": "mkrb-10-08-kitty1"
+        "IMAGES_BUCKET": "mkrb-10-08-kitty2"
       },
       "event_source_arn": null,
       "event_source_mapping": [],
@@ -39,7 +39,7 @@
     },
     "appcd_551e1d2b-88ec-5406-87cf-c51521bbe894": {
       "block_public_access": true,
-      "bucket_name": "mkrb-10-08-kitty1",
+      "bucket_name": "mkrb-10-08-kitty2",
       "bucket_policy": "",
       "enable_versioning": true,
       "enable_website_configuration": false,
